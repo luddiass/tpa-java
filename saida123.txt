@@ -1,7 +1,7 @@
 12;Carlos;10
-13;Lud;10
+16;Eduardo;9
+18;Ione;9
 14;Isabella;10
 15;Lara;9
-16;Eduardo;9
+13;Lud;10
 17;Marcos;9
-18;Ione;9
